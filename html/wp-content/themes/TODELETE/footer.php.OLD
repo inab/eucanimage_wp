@@ -1,0 +1,178 @@
+</div><!-- #page-wrapper -->
+
+
+        <div class="wrapper footer-customized" id="wrapper-footer-full">
+
+                <div class="container" id="footer-full-content" tabindex="-1">
+
+
+                                        <div class="row">
+                                                                                                                                                                        <div class="col-12 col-md-7">
+                                                                        <div class="row">
+                                                                                                                                                                                                                                                        <div class="col-12 col-md-3 text-center mb-4 mb-md-0">
+                                                                                                <img class="img-fluid eucanimage-logo" src="wp-content/uploads/2020/12/eucanimage-logo.svg" alt="EuCanImage logo" />
+                                                                                        </div>
+
+                                                                                <div class="col-12 col-md-9 mb-4 mb-md-0">
+                                                                                        <p>EuCanImage is a 4-year research project building a European cancer imaging platform that will enhance the potential of Artificial Intelligence in oncology.</p>
+<p>&nbsp;</p>
+
+                                                                                </div>
+                                                                        </div>
+
+                                                                </div>
+
+                                                                                                                                                                        <div class="col-12 col-md-5">
+                                                                        <div class="row">
+
+                                                                                                                                                                                                                                <div class="col-12 col-md-2 mb-3 mb-md-0">
+                                                                                        <img src="wp-content/uploads/2020/10/flag-eu.svg" alt="European Union Flag" />
+                                                                                </div>
+
+                                                                                <div class="col-12 col-md-10 mb-4 mb-md-0">
+                                                                                        <p>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 952103</p>
+                                                                                </div>
+
+                                                                        </div>
+                                                                </div>
+
+                                        </div>
+
+
+                </div>
+
+        </div><!-- #wrapper-footer-full -->
+
+
+<div class="wrapper footer-customized bg-corp-blue py-3" id="wrapper-footer">
+
+        <div class="container">
+
+                <div class="row">
+                        <div class="col-12">
+
+                                <footer id="colophon">
+
+                                        <div class="site-info">
+
+                                                <div class="d-flex justify-content-start justify-content-md-center">
+                                                                                                                Copyright EuCanImage 2020                                               </div>
+
+                                                <div class="social-btns d-flex justify-content-end mr-4 mr-md-0">
+                                                        <a href="https://twitter.com/EuCanImage" role="button" aria-label="Visit EuCanImage Twitter page" target="_blank">
+                                                                <span class="icon-twitter-bg" aria-hidden="true"><i class="fa fa-twitter"></i></span>
+                                                        </a>
+                                                </div>
+
+                                        </div><!-- .site-info -->
+
+                                </footer><!-- #colophon -->
+
+                        </div><!--col end -->
+                </div><!-- row end -->
+
+        </div><!-- container end -->
+
+</div><!-- wrapper end -->
+
+</div><!-- #page we need this extra closing tag here -->
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. However you may visit Cookie Settings to provide a controlled consent.</div><div class="cli-bar-btn_container"><a role='button' tabindex='0' class="cli_settings_button">Cookie settings</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">ACCEPT</a></div></div></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+        <div class="cli-modal-content cli-bar-popup">
+                <button type="button" class="cli-modal-close" id="cliModalClose">
+                        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+                        <span class="wt-cli-sr-only">Close</span>
+                </button>
+                <div class="cli-modal-body">
+                        <div class="cli-container-fluid cli-tab-container">
+        <div class="cli-row">
+                <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+                        <div class="cli-privacy-overview">
+                                <h4>Privacy Overview</h4>                               <div class="cli-privacy-content">
+                                        <div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+                                </div>
+                                <a class="cli-privacy-readmore" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>                   </div>
+                </div>
+                <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+                                                                                                <div class="cli-tab-section">
+                                                <div class="cli-tab-header">
+                                                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+                                                                Necessary                                                       </a>
+                                                        <div class="wt-cli-necessary-checkbox">
+                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+                    </div>
+                    <span class="cli-necessary-caption">Always Enabled</span>                                           </div>
+                                                <div class="cli-tab-content">
+                                                        <div class="cli-tab-pane cli-fade" data-id="necessary">
+                                                                <p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                                                                                                                        <div class="cli-tab-section">
+                                                <div class="cli-tab-header">
+                                                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+                                                                Non-necessary                                                   </a>
+                                                        <div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
+                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+                    </div>                                              </div>
+                                                <div class="cli-tab-content">
+                                                        <div class="cli-tab-pane cli-fade" data-id="non-necessary">
+                                                                <p>Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.</p>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                                                                </div>
+        </div>
+</div>
+                </div>
+                <div class="cli-modal-footer">
+                        <div class="wt-cli-element cli-container-fluid cli-tab-container">
+                                <div class="cli-row">
+                                        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+                                                <div class="cli-tab-footer wt-cli-privacy-overview-actions">
+
+                                                                                                                        <a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE & ACCEPT</a>
+                                                                                                        </div>
+
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+        </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+
+<link rel='stylesheet' id='wphb-4-css'  href="<?php echo get_template_directory_uri(); ?>/css/style_16bb.css" media='all' />
+
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/themes/Eucanimage.TODELETE/js/child-theme.min.js" id='child-understrap-scripts-js'></script>
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/themes/Eucanimage.TODELETE/js/wp-embed.min.js" id='wp-embed-js'></script>
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/plugins/gravityforms/js/jquery.json.min.js" id='gform_json-js'></script>
+<script id='gform_gravityforms-js-extra'>
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2},"base_url":"https:\/\/eucanimage.eu\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/eucanimage.eu\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+</script>
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/plugins/gravityforms/js/gravityforms.min.js" id='gform_gravityforms-js'></script>
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js" id='gform_placeholder-js'></script>
+<script src="<?php echo get_template_directory_uri(); ?>/wp-content/uploads/hummingbird-assets/580631753310be24604d9786c1e3b890.js" id='gform_recaptcha-js'></script>
+                <script type="text/javascript">
+                        ( function( $ ) {
+                                $( document ).bind( 'gform_post_render', function() {
+                                        var gfRecaptchaPoller = setInterval( function() {
+                                                if( ! window.grecaptcha || ! window.grecaptcha.render ) {
+                                                        return;
+                                                }
+                                                renderRecaptcha();
+                                                clearInterval( gfRecaptchaPoller );
+                                        }, 100 );
+                                } );
+                        } )( jQuery );
+                </script>
+
+
+</body>
+</html>
+
