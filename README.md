@@ -19,8 +19,9 @@ This kit assumes a `docker-compose.yml` that mounts `./_data` to `/var/www/html`
     ```
 
 ## One-shot usage
-1. Copy `restore.ps1` next to `docker-compose.yml` and `wordpress.sql.gz`.
-2. Open PowerShell in that folder and run:
+1. Copy .env file from NexCloud Service on the application root.
+2. Copy `restore.ps1` next to `docker-compose.yml` and `wordpress.sql.gz`.
+3. Open PowerShell in that folder and run:
    ```powershell
    .\restore.ps1 -DumpFile "wordpress.sql.gz" -SiteURL "http://localhost:8080" -Clean
    ```

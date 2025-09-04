@@ -12,6 +12,7 @@ and defines the `db`, `wordpress`, and `wpcli` services.
   - *(optional)* `uploads.tar.gz` containing `wp-content/uploads` from the site.
 
 ## Usage
+- Copy .env file from NexCloud Service on the application root.
 ```bash
 chmod +x restore-linux.sh
 ./restore-linux.sh -f wordpress.sql.gz -u http://localhost:8080 --clean
